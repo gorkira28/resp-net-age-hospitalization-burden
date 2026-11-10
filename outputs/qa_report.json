@@ -1,0 +1,20 @@
+{
+  "rows": 2332,
+  "networks": 4,
+  "age_groups": 11,
+  "network_age_groups": 44,
+  "expected_network_age_groups": 44,
+  "minimum_weeks_per_series": 53,
+  "maximum_weeks_per_series": 53,
+  "duplicate_network_age_weeks": 0,
+  "missing_estimates": 0,
+  "negative_estimates": 0,
+  "first_week": "2025-10-04",
+  "last_week": "2026-10-03",
+  "passed": true,
+  "max_combined_crosscheck_difference": 1.0,
+  "adult_age_burden_spearman_rho": 1.0,
+  "adult_age_burden_spearman_p_value": 0.0,
+  "age_85_plus_vs_18_29_rate_ratio": 27.3265306122449,
+  "infant_vs_18_29_rate_ratio": 19.408163265306122
+}

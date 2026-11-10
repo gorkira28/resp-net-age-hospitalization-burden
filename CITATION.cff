@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this portfolio analysis, please cite it as follows."
+title: "RESP-NET Age-Specific Respiratory Hospitalization Burden"
+type: software
+authors:
+  - family-names: Gor
+    given-names: Kira
+    name-suffix: BDS, MPH
+version: 1.0.0
+date-released: 2026-11-10
+url: "https://github.com/gorkira28/resp-net-age-hospitalization-burden"
+repository-code: "https://github.com/gorkira28/resp-net-age-hospitalization-burden"
+license: MIT
+keywords:
+  - epidemiology
+  - respiratory surveillance
+  - RESP-NET
+  - SAS
+  - Python
+
